@@ -1,3 +1,3 @@
-# Demo 2
+# New repo
 
-Some Text
+This just a demo repositories to learn.
